@@ -5,7 +5,7 @@ ne pas modifier
 fait par la commande compile My_moniteur sous pasmo v0.6
 
 principales commandes
-   version 24/06/21 en ==ROM==
+`   version 24/06/21 en ==ROM==
 / = Show this Menu
 0 = Hex-load and go
 1 = User LED toggle
@@ -25,4 +25,4 @@ r = RAZ ram $0000-$B000
 >
 
 --ROM--test moniteur v.0:0014
-
+`
