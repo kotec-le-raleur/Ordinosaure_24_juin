@@ -19,16 +19,28 @@ version 24/06/21 en ==ROM==
 1 = User LED toggle
 
 2 = ROM ON
+
 3 = ROM OFF
+
 4 = Disk LED toggle
+
 5 = Transfert
+
 6 = HexLoad and return
+
 h = Dump Page +
+
 l = Dump Page -
+
 t = Test fonction
+
 w = Get Word
+
 b = Get Byte
+
 g = Goto HL
-r = RAZ ram $0000-$B000>`
+
+r = RAZ ram $0000-$B000
+>`
 
 
