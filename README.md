@@ -11,9 +11,13 @@ principales commandes
 `<
 --ROM--test moniteur v.0:0014 <\br>
 version 24/06/21 en ==ROM==
+
 / = Show this Menu
+
 0 = Hex-load and go
+
 1 = User LED toggle
+
 2 = ROM ON
 3 = ROM OFF
 4 = Disk LED toggle
